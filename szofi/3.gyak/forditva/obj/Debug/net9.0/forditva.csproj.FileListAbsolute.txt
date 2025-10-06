@@ -1,0 +1,15 @@
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/obj/Debug/net9.0/forditva.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/obj/Debug/net9.0/forditva.AssemblyInfoInputs.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/obj/Debug/net9.0/forditva.AssemblyInfo.cs
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/obj/Debug/net9.0/forditva.csproj.CoreCompileInputs.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/obj/Debug/net9.0/forditva.sourcelink.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/bin/Debug/net9.0/forditva
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/bin/Debug/net9.0/forditva.deps.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/bin/Debug/net9.0/forditva.runtimeconfig.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/bin/Debug/net9.0/forditva.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/bin/Debug/net9.0/forditva.pdb
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/obj/Debug/net9.0/forditva.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/obj/Debug/net9.0/refint/forditva.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/obj/Debug/net9.0/forditva.pdb
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/obj/Debug/net9.0/forditva.genruntimeconfig.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/forditva/obj/Debug/net9.0/ref/forditva.dll
