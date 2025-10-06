@@ -1,14 +1,12 @@
 services:
   mysql:
-    image: bitnami/mysql
+    image: mysql
     environment:
         MYSQL_ROOT_PASSWORD: passwd
     ports:
       - 3306:3306
     volumes:
       - /home/peter/egyetem/adatbazisok/:/var/db/
-      - /home/peter/.config/nvim/:/home/root/.config/nvim
-    command: tail -f /dev/null
 
   hod:
     image: dbeaver/cloudbeaver
