@@ -1,0 +1,15 @@
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/bin/Debug/net9.0/proba
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/bin/Debug/net9.0/proba.deps.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/bin/Debug/net9.0/proba.runtimeconfig.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/bin/Debug/net9.0/proba.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/bin/Debug/net9.0/proba.pdb
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/obj/Debug/net9.0/proba.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/obj/Debug/net9.0/proba.AssemblyInfoInputs.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/obj/Debug/net9.0/proba.AssemblyInfo.cs
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/obj/Debug/net9.0/proba.csproj.CoreCompileInputs.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/obj/Debug/net9.0/proba.sourcelink.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/obj/Debug/net9.0/proba.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/obj/Debug/net9.0/refint/proba.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/obj/Debug/net9.0/proba.pdb
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/obj/Debug/net9.0/proba.genruntimeconfig.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/proba/obj/Debug/net9.0/ref/proba.dll

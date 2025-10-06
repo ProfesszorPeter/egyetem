@@ -1,0 +1,15 @@
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/obj/Debug/net9.0/events.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/obj/Debug/net9.0/events.AssemblyInfoInputs.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/obj/Debug/net9.0/events.AssemblyInfo.cs
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/obj/Debug/net9.0/events.csproj.CoreCompileInputs.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/obj/Debug/net9.0/events.sourcelink.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/bin/Debug/net9.0/events
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/bin/Debug/net9.0/events.deps.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/bin/Debug/net9.0/events.runtimeconfig.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/bin/Debug/net9.0/events.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/bin/Debug/net9.0/events.pdb
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/obj/Debug/net9.0/events.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/obj/Debug/net9.0/refint/events.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/obj/Debug/net9.0/events.pdb
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/obj/Debug/net9.0/events.genruntimeconfig.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/events/obj/Debug/net9.0/ref/events.dll
