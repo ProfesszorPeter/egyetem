@@ -1,0 +1,15 @@
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/bin/Debug/net9.0/allatok
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/bin/Debug/net9.0/allatok.deps.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/bin/Debug/net9.0/allatok.runtimeconfig.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/bin/Debug/net9.0/allatok.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/bin/Debug/net9.0/allatok.pdb
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/obj/Debug/net9.0/allatok.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/obj/Debug/net9.0/allatok.AssemblyInfoInputs.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/obj/Debug/net9.0/allatok.AssemblyInfo.cs
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/obj/Debug/net9.0/allatok.csproj.CoreCompileInputs.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/obj/Debug/net9.0/allatok.sourcelink.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/obj/Debug/net9.0/allatok.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/obj/Debug/net9.0/refint/allatok.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/obj/Debug/net9.0/allatok.pdb
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/obj/Debug/net9.0/allatok.genruntimeconfig.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/allatok/obj/Debug/net9.0/ref/allatok.dll

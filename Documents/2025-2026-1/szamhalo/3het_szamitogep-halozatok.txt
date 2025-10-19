@@ -1,0 +1,88 @@
+#==============================================
+#=================== 3. hét ===================
+#==============================================
+"szerver" (gray)
+1. gép
+10.22.3.126
+user: [neptun-kód]
+alap pw: 123
+[PuTTY]
+{ds9na0@gray} = {g}
+
+virtuális
+2. gép
+K:\VM\debian -> C:\VM vagy D:\VM
+user: user
+pw: 123456
+[VMWare - Debian ─ elindítás]
+[PuTTY ─ Belépés]
+{user@pwn} = {u}
+ip-cím: 10.22.6.30
+
+# file másolása ===================================================================================
+valami.txt
+megkeresni mc-vel
+{g}: mc
+
+/etc/vim/valami.txt
+
+scp [MIT] [HOVA] #másolás
+scp [SOURCE] [TARGET]
+[SOURCE]: [útvonal]
+[TARGET]: user@host:[útvonal]
+
+scp /etc/vim/valami.txt user@10.22.6.30:
+fingerprint: yes
+[2. gép jelszava]
+
+{g}: ls -l /etc/vim/valami.txt		# file adatai
+{u}: ls -l valami.txt
+{g}: cat /etc/vim/valami.txt		# file tartalma
+{u}: cat valami.txt
+
+{g}: md5sum /etc/vim/valami.txt		# hash vizsgálás
+{g}: sha1sum /etc/vim/valami.txt
+{g}: sha512sum /etc/vim/valami.txt
+
+# file másolása a másik gépről
+{u}: scp ds9na0@10.22.3.126:/etc/vim/valami.txt . 	# a . az aktuális könyvtár
+fingerprint: yes
+[1. gép jelszava]
+
+# könyvtár másolása ===============================================================================
+# /usr/share/doc másolása
+{u}: scp -r ds9na0@10.22.3.126:/usr/share/doc . # r = rekurzív
+[1. gép jelszava]
+# a fingerprint-et már nem kérdezi, mert már megjegyezte
+Ctrl+C = másolás leállítása
+# scp akkor is letölti a fájlt, ha már megtalálható a másik gépem
+
+sudo apt install rsync
+[2. gép jelszava]
+{u}: rsync --partial --progress --inplace --reursive ds9na0@10.22.3.126:/usr/share/doc 
+[1. gép jelszava]
+# --partial - ha részlegesen van letöltve, akkor letölti
+# --progress
+# --inplace - rögtön célfájlba tölti
+# --recursive - rekurzív
+
+# nyilvános kulcs =================================================================================
+# titkos kulccsal beléphetünk a másik gépbe jelszó nélkül
+
+{u}: ssh ds9na0@10.22.3.126		# secure shell
+[1. gép jelszava]
+# átléptünk a másik gépbe
+{g}: logout / {g}: exit			# kilépés a másik gépből
+# cmd / Parancssorral is megtehetjük ezt
+
+{g}: ssh-keygen		# kulcsgenerálás
+{g}: cd .ssh		# könvytárba átlépés
+{g}: ls
+{g}: cat id_rsa.pub	# generált nyilvános kulcs
+{u}: mkdir .ssh 	# könyvtár létrehozása
+{u}: cat >> authorized_keys
+[generált nyilvános kulcs beillesztése]
+Ctrl+D
+
+# szöveg másolása: szöveg kijelölése konzolon (csak PuTTY-ba lehet, VMWare-ben nem)
+# szöveg beillesztése: jobb-kilkk

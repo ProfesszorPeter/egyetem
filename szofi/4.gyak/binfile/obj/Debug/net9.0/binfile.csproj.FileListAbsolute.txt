@@ -1,0 +1,14 @@
+/home/dev/mnt/szofi/4.gyak/binfile/bin/Debug/net9.0/binfile
+/home/dev/mnt/szofi/4.gyak/binfile/bin/Debug/net9.0/binfile.deps.json
+/home/dev/mnt/szofi/4.gyak/binfile/bin/Debug/net9.0/binfile.runtimeconfig.json
+/home/dev/mnt/szofi/4.gyak/binfile/bin/Debug/net9.0/binfile.dll
+/home/dev/mnt/szofi/4.gyak/binfile/bin/Debug/net9.0/binfile.pdb
+/home/dev/mnt/szofi/4.gyak/binfile/obj/Debug/net9.0/binfile.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/szofi/4.gyak/binfile/obj/Debug/net9.0/binfile.AssemblyInfoInputs.cache
+/home/dev/mnt/szofi/4.gyak/binfile/obj/Debug/net9.0/binfile.AssemblyInfo.cs
+/home/dev/mnt/szofi/4.gyak/binfile/obj/Debug/net9.0/binfile.csproj.CoreCompileInputs.cache
+/home/dev/mnt/szofi/4.gyak/binfile/obj/Debug/net9.0/binfile.dll
+/home/dev/mnt/szofi/4.gyak/binfile/obj/Debug/net9.0/refint/binfile.dll
+/home/dev/mnt/szofi/4.gyak/binfile/obj/Debug/net9.0/binfile.pdb
+/home/dev/mnt/szofi/4.gyak/binfile/obj/Debug/net9.0/binfile.genruntimeconfig.cache
+/home/dev/mnt/szofi/4.gyak/binfile/obj/Debug/net9.0/ref/binfile.dll

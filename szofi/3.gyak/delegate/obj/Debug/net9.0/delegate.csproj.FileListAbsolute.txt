@@ -1,0 +1,5 @@
+/home/dev/mnt/c#/egyetem/2025-2026-1/delegate/obj/Debug/net9.0/delegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/c#/egyetem/2025-2026-1/delegate/obj/Debug/net9.0/delegate.AssemblyInfoInputs.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/delegate/obj/Debug/net9.0/delegate.AssemblyInfo.cs
+/home/dev/mnt/c#/egyetem/2025-2026-1/delegate/obj/Debug/net9.0/delegate.csproj.CoreCompileInputs.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/delegate/obj/Debug/net9.0/delegate.sourcelink.json

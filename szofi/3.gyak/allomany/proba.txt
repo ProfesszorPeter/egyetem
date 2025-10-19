@@ -1,0 +1,16 @@
+Jellemzők
+
+A Wikipédiát a Nupediához (a Wikipédia elődjéhez) hasonlóan támogatja
+Richard Stallman, a szabadszoftver-mozgalom és a Free Software Foundation
+(Szabad Szoftver Alapítvány, FSF) alapítója; Stallman többször említette a
+„szabad, univerzális enciklopédia” hasznosságát még a Nupedia és a Wikipédia
+alapítása előtt. A Wikipédia széleskörű nyitottságának van néhány hátránya.
+Például azon cikkek esetén, melyek a legtöbb résztvevő számára ismeretlenek,
+a pontosság és a pártatlanság sokszor megkérdőjelezhető. A résztvevők egy
+része ezzel vitába szállva úgy gondolja, hogy idővel ezek a hibák csökkennek,
+és az egyes cikkek minősége javulni fog. Egy másik hátrány az, hogy sok
+szerkesztést olyan emberek végeznek, akiknek nem céljuk az, hogy hasznosan
+vegyenek részt a munkában, hanem mindenféle értelmetlenséget („fghfhgf”) vagy
+elfogadhatatlan tartalmat („hüje aki ólvasa”) adnak a cikkekhez.
+Ezt a Wikipédia „vandalizmusnak” nevezi.
+
