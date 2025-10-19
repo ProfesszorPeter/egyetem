@@ -1,0 +1,15 @@
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/bin/Debug/net9.0/generalas
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/bin/Debug/net9.0/generalas.deps.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/bin/Debug/net9.0/generalas.runtimeconfig.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/bin/Debug/net9.0/generalas.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/bin/Debug/net9.0/generalas.pdb
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/obj/Debug/net9.0/generalas.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/obj/Debug/net9.0/generalas.AssemblyInfoInputs.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/obj/Debug/net9.0/generalas.AssemblyInfo.cs
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/obj/Debug/net9.0/generalas.csproj.CoreCompileInputs.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/obj/Debug/net9.0/generalas.sourcelink.json
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/obj/Debug/net9.0/generalas.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/obj/Debug/net9.0/refint/generalas.dll
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/obj/Debug/net9.0/generalas.pdb
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/obj/Debug/net9.0/generalas.genruntimeconfig.cache
+/home/dev/mnt/c#/egyetem/2025-2026-1/generalas/obj/Debug/net9.0/ref/generalas.dll

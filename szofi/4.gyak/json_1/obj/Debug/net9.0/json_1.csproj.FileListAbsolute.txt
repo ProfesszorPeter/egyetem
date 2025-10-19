@@ -1,0 +1,4 @@
+/home/dev/mnt/szofi/4.gyak/json_1/obj/Debug/net9.0/json_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/szofi/4.gyak/json_1/obj/Debug/net9.0/json_1.AssemblyInfoInputs.cache
+/home/dev/mnt/szofi/4.gyak/json_1/obj/Debug/net9.0/json_1.AssemblyInfo.cs
+/home/dev/mnt/szofi/4.gyak/json_1/obj/Debug/net9.0/json_1.csproj.CoreCompileInputs.cache
