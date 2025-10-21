@@ -1,5 +1,14 @@
 services:
   vm:
+<<<<<<< HEAD
     build:
       context: ./
+=======
+    image:
+      debianvm:1.0
+    ports:
+      - 1234:1234
+    command: tail -f /dev/null
+
+>>>>>>> e602518797437cb1389c5ed5d777e9e6787bbda9
 

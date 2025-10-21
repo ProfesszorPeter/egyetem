@@ -13,4 +13,4 @@ services:
     ports:
       - 8080:8978
     volumes:
-      - /home/peter/egyetem/adatbazisok/:/opt/cloudbeaver/workspace
+      - /home/peter/egyetem/adatbazisok/:/home/root
