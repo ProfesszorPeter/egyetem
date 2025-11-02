@@ -30,8 +30,11 @@ class LinkedList:           # LáncoltLista osztály
     def printList(self):      # Bejár művelet; az összes adat kiírása
         tmp=self.head         # tmp a segédcsomópont, amely kezdetben a fej: innen indul a kiírás
         while tmp:            # egyenértékű: while tmp is not None, vagyis amíg nem érünk a végére
+            print(tmp, end='')
             # adat kiírása
             tmp=tmp.next               # következő csomópontra lépés
+            if tmp:
+                print(" --> " ,end='')
             # ha nem az utolsó csomópont, akkor
             # kiíratunk utána egy nyilat; így az utolsó után nem lesz
         print()
@@ -40,6 +43,8 @@ class LinkedList:           # LáncoltLista osztály
 
 #főprogram
 # képernyőtörlés - ez így csak Windows alatt jó
+import os
+os.system("clear")
 szavak=LinkedList()
 szavak.insertAtBeginning("lehet")
 szavak.insertAtBeginning("könnyű")

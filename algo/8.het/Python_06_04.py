@@ -74,13 +74,17 @@ szavak.printList()
 print()
 
 # a lista végére egy felkiáltójel beszúrása
+szavak.insertAtEnd("!")
 print("Az új lista:")
 # lista kiíratása
+szavak.printList()
 print()
 
 # a Neked szó után, vagyis a 2. pozícióra a nagyon szó beszúrása
+szavak.insertAtPosition("nagyon",2)
 print("A még újabb lista:")
 # lista kiíratása
+szavak.printList()
 print()
 
 
