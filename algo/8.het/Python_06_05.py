@@ -22,7 +22,7 @@ class LinkedList:           # LáncoltLista osztály
         new_node=Node(data)             # új csomópont létrehozása a tárolandó adattal
         new_node.next=self.head         # az új csomópont után következik a teljes eddigi lista
         self.head=new_node              # az új csomópont lesz a lista új feje
-        if self.tail==None:             # ha eddig üres volt a lista, akkor 
+        if self.tail==None:             # ha eddig üres volt a lista, akkor
             self.tail=self.head         # a tail-t az új, egyetlen elemre kell állítani
         self.counter+=1                 # elemszám növelése 1-gyel
         self.error=False                # nem történt hiba
@@ -78,13 +78,20 @@ class LinkedList:           # LáncoltLista osztály
 
     def removeFirstNode(self):
             # üres listából nem lehet elemet törölni,
+            if self.head == None:
+                self.error = True
             # ezért a hibát igazra állítjuk
-        else:                           # ekkor a lista nem üres:
-            # a következő csomópont lesz az új fej (vagy None)
-            # elemszám csökkentése
-            # ha üres lett a lista, akkor
-                # a tail is None lesz
-            # nem volt hiba
+            else:                           # ekkor a lista nem üres:
+                self.head = self.head.next
+                # a következő csomópont lesz az új fej (vagy None)
+                # elemszám csökkentése
+                self.counter -= 1
+                if self.counter == 0:
+                # ha üres lett a lista, akkor
+                    self.tail = self.head
+                    # a tail is None lesz
+                # nem volt hiba
+                self.error = False
 
 
     def printList(self):       # Bejár művelet; az összes adat kiírása

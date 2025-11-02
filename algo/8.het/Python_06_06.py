@@ -96,24 +96,30 @@ class LinkedList:           # LáncoltLista osztály
 #főprogram
 lista=LinkedList()  # üres lista létrehozása
 # első csomópont törlése - ha lehetne
+if lista.head != None:
+    lista.removeFirstNode()
 # ha a lista üres
+else:
     print("A lista üres, így nem törölhető belőle elem!")
 print()
 # elejére a "répa" elem
+lista.insertAtBeginning("répa")
 print("Egy elem van:")
 lista.printList()
 # utolsó csomópont törlése
+lista.removeLastNode()
 lista.printList()
 print("A fejelem törlése után üres lett a lista.")
 print()
 print("4 elem felvétele (mindig a lista végére beszúrva):")
-# "sárgarépa"
-# "karalábé"
-# "petrezselyem"
-# "paprika"
+lista.insertAtEnd("sárgarépa")
+lista.insertAtEnd("karalábé")
+lista.insertAtEnd("petrezselyem")
+lista.insertAtEnd("paprika")
 lista.printList()
 print()
 # "paradicsom" beszúrása a 20. pozícióra
+lista.insertAtPosition("paradicsom",20)
 print("A paradicsom beszúrása után:")
 lista.printList()
 print()
