@@ -1,0 +1,108 @@
+show databases;
+use egyetem;
+show tables;
+desc Hallgato;
+SELECT * from Hallgato;
+desc Kerelem;
+alter table Kerelem modify jegy int;
+select * from Kerelem;
+desc Szak;
+SELECT * from Szak;
+desc Targy;
+SELECT * from Targy;
+
+#alap
+SELECT * from Kerelem
+         join Hallgato on Kerelem.Hallgatoazonosito = Hallgato.Hallgatoazonosito
+         join Targy on Targy.Targyazonosito = Kerelem.Targyazonosito
+         join Szak on Szak.Szakazonosito = Hallgato.Szakazonosito;
+
+
+#tárolt eljárás: evfolyamkerelemdb
+#évenkénti elfogadott kérelmek száma
+
+
+
+delimiter $$
+drop procedure if exists evfolyamkerelemdb $$
+CREATE procedure evfolyamkerelemdb()
+begin
+SELECT Evfolyam, count(1) from Kerelem
+         join Hallgato on Kerelem.Hallgatoazonosito = Hallgato.Hallgatoazonosito
+  where Hatarozat = "elfogadva"
+  GROUP by Evfolyam
+  order by Evfolyam;
+
+
+end $$
+delimiter ;
+
+call evfolyamkerelemdb;
+
+#paraméteres tárolt eljárás: adott szak jegyeinek átlaga
+#szakkerelemeinekatlaga
+
+
+
+delimiter $$
+drop procedure if exists szakkerelemeinekatlaga $$
+CREATE procedure szakkerelemeinekatlaga(in beSzak varchar(100))
+begin
+SELECT avg(jegy) from Kerelem
+         join Hallgato on Kerelem.Hallgatoazonosito = Hallgato.Hallgatoazonosito
+         join Targy on Targy.Targyazonosito = Kerelem.Targyazonosito
+         join Szak on Szak.Szakazonosito = Hallgato.Szakazonosito
+where Szak.Megnevezes = beSzak and jegy is not null;
+
+
+end $$
+delimiter ;
+
+call szakkerelemeinekatlaga("Környezetvédő");
+
+#tárolt függvény: tantargyjelesdb
+
+delmiter $$
+drop function if exists tantargyjelesdb $$
+CREATE function tantargyjelesdb(beTargy varchar(100))
+return int deterministic
+begin
+  declare db int;
+  set db = (
+    SELECT count(1) from Kerelem
+         join Targy on Targy.Targyazonosito = Kerelem.Targyazonosito
+  where jegy = 5 and Targy.Megnevezes = beTargy
+
+  );
+  return db;
+
+end $$
+delmiter ;
+
+SELECT tantargyjelesdb("Ásványtan");
+
+
+#trigger logSzak: ki, mikor, mirol, mire, modositotta a szak nevét
+#1. lépés a log tábla létrehozása
+CREATE table naploSzak(
+  az int primary key auto_increment,
+  ki varchar(100),
+  mikor datetime,
+  mit varchar(100),
+  mire varchar(100)
+  );
+
+
+delmiter $$
+drop trigger if exists
+
+
+
+
+
+#felhasználók kezelése
+-------------------------------
+
+#új felhasználó létrehozása
+CREATE user admin@172.17.0.1 identified by "jelszo";
+
