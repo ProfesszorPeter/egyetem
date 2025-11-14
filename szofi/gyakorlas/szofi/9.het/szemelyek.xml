@@ -1,0 +1,54 @@
+<Szemelyek>
+<Szemely>
+<Azon>1</Azon>
+<Nev>János</Nev>
+<Nem>férfi</Nem>
+<Telefon Tipus="Otthoni">123-456</Telefon>
+<Telefon Tipus="Munkahelyi">1-111-222</Telefon>
+<Lakcim>
+<IrSzam>8000</IrSzam>
+<Helyseg>Székesfehérvár</Helyseg>
+<Utca>Jancsár</Utca>
+<Hazszam>10</Hazszam>
+</Lakcim>
+</Szemely>
+<Szemely>
+<Azon>2</Azon>
+<Nev>Pál</Nev>
+<Nem>férfi</Nem>
+<Telefon Tipus="Otthoni">234-456</Telefon>
+<Telefon Tipus="Munkahelyi">1-333-222</Telefon>
+<Lakcim>
+<IrSzam>8000</IrSzam>
+<Helyseg>Székesfehérvár</Helyseg>
+<Utca>Széchenyi</Utca>
+<Hazszam>38</Hazszam>
+</Lakcim>
+</Szemely>
+<Szemely>
+<Azon>3</Azon>
+<Nev>Lilla</Nev>
+<Nem>nő</Nem>
+<Telefon Tipus="Otthoni">1-456-777</Telefon>
+<Telefon Tipus="Munkahelyi">1-987-654</Telefon>
+<Lakcim>
+<IrSzam>1095</IrSzam>
+<Helyseg>Budapest</Helyseg>
+<Utca>Kossuth</Utca>
+<Hazszam>22</Hazszam>
+</Lakcim>
+</Szemely>
+<Szemely>
+<Azon>4</Azon>
+<Nev>Jenő</Nev>
+<Nem>férfi</Nem>
+<Telefon Tipus="Otthoni">453-856</Telefon>
+<Telefon Tipus="Munkahelyi">453-857</Telefon>
+<Lakcim>
+<IrSzam>7625</IrSzam>
+<Helyseg>Pécs</Helyseg>
+<Utca>Petőfi</Utca>
+<Hazszam>39</Hazszam>
+</Lakcim>
+</Szemely>
+</Szemelyek>
