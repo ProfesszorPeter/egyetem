@@ -19,11 +19,19 @@ class Graph:
         return edges                    # (u,v) élt; végül visszaadjuk az élek listáját
 
     def addEdge(self,u,v,directed=True): # HozzáadÉl művelet:
+        self.dict[u].append(v)             # az (u,v) él hozzáadása; 
+        if not directed:                   # ha irányítatlan a gráf, akkor a (v,u) élt is kell
+            self.dict[v].append(u)                            
+
+    def removeEdge(self,u,v,directed=True):
+        self.dict[u].remove(v)
+        if not directed:
+            self.dict[v].remove(u)
         
 
 
 # főprogram
-os.system('cls')
+#os.system('cls')
 szotar={
             "0" : ["1","2","3"],
             "1" : ["0","3"],

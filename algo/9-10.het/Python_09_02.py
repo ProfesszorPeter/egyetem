@@ -44,7 +44,7 @@ class Graph:
 
 
 # főprogram
-os.system('cls')
+#os.system('cls')
 szotar={
             "0" : ["1","2","3"],
             "1" : ["0","3"],
@@ -60,20 +60,27 @@ print("A gráf csúcsai: ",graf.getVertices())
 print("A gráf élei: ",graf.getEdges(False))
 print("\nFelvesszük a 10-es izolált pontot.")
  # a 10-es csúcspont hozzáadása
+graf.addVertex(10)
 print("A 10-es csúcspontnak nincsenek szomszédjai:")
  # a 10-es csúcspont szomszédai (üres lista lesz)
+graf.Neighbors(10)
 print("\nA 3-as csúcspont szomszédjai:")
 print(graf.Neighbors("3"))
 print("\nFelvesszük a gráfba a (10,5) élt.")
  # a (10,5) él hozzáadása
 print("A gráf élei most: ",graf.getEdges(False))
  # ha a (0,3) él a gráfban:
-print("\nTöröltük a gráfból a (0,3) élt.")
+print("skill issue")
+print(graf.isEdge(0,3))
+if graf.isEdge(0,3):
+    print("\nTöröltük a gráfból a (0,3) élt.")
  # a (0,3) él törlése
+    graf.removeEdge(0,3)
 else:
     print("A gráfnak a (0,3) nem éle.")
 print("A gráf élei most: ",graf.getEdges(False))
  # ha a (3,1) él a gráfban
+if graf.isEdge(3,1):
     print("A gráfnak a (3,1) éle.")
 else:
     print("A gráfnak a (3,1) nem éle.")
