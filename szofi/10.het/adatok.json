@@ -1,0 +1,8 @@
+[
+    {"Nev":"János",
+        "Eletkor":19,
+        "Lakhely":"Mór",
+        "Jegyek":[2,3,4,5,4,3,2,1]
+    },
+    {"Nev":"Pál","Eletkor":21,"Lakhely":"Budapest","Jegyek":[1,2,1,2,2]},{"Nev":"Jenő","Eletkor":23,"Lakhely":"Pécs","Jegyek":[1,2,3,4,5,1,2,3,4,5]}]
+

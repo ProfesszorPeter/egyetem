@@ -1,4 +1,4 @@
-﻿namespace LINQ_peldak2
+﻿namespace LINQ_peldak
 {
     internal class Program
     {
