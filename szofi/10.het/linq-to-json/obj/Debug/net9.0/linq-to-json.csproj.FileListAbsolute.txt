@@ -1,0 +1,17 @@
+/home/dev/mnt/szofi/10.het/linq-to-json/bin/Debug/net9.0/linq-to-json
+/home/dev/mnt/szofi/10.het/linq-to-json/bin/Debug/net9.0/linq-to-json.deps.json
+/home/dev/mnt/szofi/10.het/linq-to-json/bin/Debug/net9.0/linq-to-json.runtimeconfig.json
+/home/dev/mnt/szofi/10.het/linq-to-json/bin/Debug/net9.0/linq-to-json.dll
+/home/dev/mnt/szofi/10.het/linq-to-json/bin/Debug/net9.0/linq-to-json.pdb
+/home/dev/mnt/szofi/10.het/linq-to-json/obj/Debug/net9.0/linq-to-json.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/szofi/10.het/linq-to-json/obj/Debug/net9.0/linq-to-json.AssemblyInfoInputs.cache
+/home/dev/mnt/szofi/10.het/linq-to-json/obj/Debug/net9.0/linq-to-json.AssemblyInfo.cs
+/home/dev/mnt/szofi/10.het/linq-to-json/obj/Debug/net9.0/linq-to-json.csproj.CoreCompileInputs.cache
+/home/dev/mnt/szofi/10.het/linq-to-json/obj/Debug/net9.0/linq-to-json.dll
+/home/dev/mnt/szofi/10.het/linq-to-json/obj/Debug/net9.0/refint/linq-to-json.dll
+/home/dev/mnt/szofi/10.het/linq-to-json/obj/Debug/net9.0/linq-to-json.pdb
+/home/dev/mnt/szofi/10.het/linq-to-json/obj/Debug/net9.0/linq-to-json.genruntimeconfig.cache
+/home/dev/mnt/szofi/10.het/linq-to-json/obj/Debug/net9.0/ref/linq-to-json.dll
+/home/dev/mnt/szofi/10.het/linq-to-json/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/dev/mnt/szofi/10.het/linq-to-json/obj/Debug/net9.0/linq-to-json.csproj.AssemblyReference.cache
+/home/dev/mnt/szofi/10.het/linq-to-json/obj/Debug/net9.0/linq-to-.47AD137E.Up2Date
