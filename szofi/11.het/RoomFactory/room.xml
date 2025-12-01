@@ -1,0 +1,22 @@
+<rooms>
+<oneRoom id="ABC123">
+<width>20</width>
+<height>10</height>
+</oneRoom>
+<oneRoom id="ABC134">
+<width>25</width>
+<height>10</height>
+</oneRoom>
+<oneRoom id="ABC145">
+<width>20</width>
+<height>12</height>
+</oneRoom>
+<oneRoom id="ABC156">
+<width>20</width>
+<height>12</height>
+</oneRoom>
+<oneRoom id="ABC167">
+<width>22</width>
+<height>12</height>
+</oneRoom>
+</rooms>
