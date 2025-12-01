@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xEYLq7f6jCs=",
+  "success": true,
+  "projectFilePath": "/home/dev/mnt/szofi/10.het/linq-to-json/linq-to-json.csproj",
+  "expectedPackageFiles": [
+    "/home/dev/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

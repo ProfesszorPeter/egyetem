@@ -1,0 +1,4 @@
+/home/dev/mnt/szofi/9.het/linq3join/obj/Debug/net9.0/linq3join.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/szofi/9.het/linq3join/obj/Debug/net9.0/linq3join.AssemblyInfoInputs.cache
+/home/dev/mnt/szofi/9.het/linq3join/obj/Debug/net9.0/linq3join.AssemblyInfo.cs
+/home/dev/mnt/szofi/9.het/linq3join/obj/Debug/net9.0/linq3join.csproj.CoreCompileInputs.cache

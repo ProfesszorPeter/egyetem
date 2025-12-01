@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dev/mnt/c#/egyetem/2025-2026-1/lambda/lambda.csproj": {}
+    "/home/dev/mnt/szofi/3.gyak/lambda/lambda.csproj": {}
   },
   "projects": {
-    "/home/dev/mnt/c#/egyetem/2025-2026-1/lambda/lambda.csproj": {
+    "/home/dev/mnt/szofi/3.gyak/lambda/lambda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dev/mnt/c#/egyetem/2025-2026-1/lambda/lambda.csproj",
+        "projectUniqueName": "/home/dev/mnt/szofi/3.gyak/lambda/lambda.csproj",
         "projectName": "lambda",
-        "projectPath": "/home/dev/mnt/c#/egyetem/2025-2026-1/lambda/lambda.csproj",
+        "projectPath": "/home/dev/mnt/szofi/3.gyak/lambda/lambda.csproj",
         "packagesPath": "/home/dev/.nuget/packages/",
-        "outputPath": "/home/dev/mnt/c#/egyetem/2025-2026-1/lambda/obj/",
+        "outputPath": "/home/dev/mnt/szofi/3.gyak/lambda/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dev/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
