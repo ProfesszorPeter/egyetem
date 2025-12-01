@@ -1,0 +1,14 @@
+/home/dev/mnt/szofi/gyakorlas/delegate/delegate1/bin/Debug/net9.0/delegate1
+/home/dev/mnt/szofi/gyakorlas/delegate/delegate1/bin/Debug/net9.0/delegate1.deps.json
+/home/dev/mnt/szofi/gyakorlas/delegate/delegate1/bin/Debug/net9.0/delegate1.runtimeconfig.json
+/home/dev/mnt/szofi/gyakorlas/delegate/delegate1/bin/Debug/net9.0/delegate1.dll
+/home/dev/mnt/szofi/gyakorlas/delegate/delegate1/bin/Debug/net9.0/delegate1.pdb
+/home/dev/mnt/szofi/gyakorlas/delegate/delegate1/obj/Debug/net9.0/delegate1.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/szofi/gyakorlas/delegate/delegate1/obj/Debug/net9.0/delegate1.AssemblyInfoInputs.cache
+/home/dev/mnt/szofi/gyakorlas/delegate/delegate1/obj/Debug/net9.0/delegate1.AssemblyInfo.cs
+/home/dev/mnt/szofi/gyakorlas/delegate/delegate1/obj/Debug/net9.0/delegate1.csproj.CoreCompileInputs.cache
+/home/dev/mnt/szofi/gyakorlas/delegate/delegate1/obj/Debug/net9.0/delegate1.dll
+/home/dev/mnt/szofi/gyakorlas/delegate/delegate1/obj/Debug/net9.0/refint/delegate1.dll
+/home/dev/mnt/szofi/gyakorlas/delegate/delegate1/obj/Debug/net9.0/delegate1.pdb
+/home/dev/mnt/szofi/gyakorlas/delegate/delegate1/obj/Debug/net9.0/delegate1.genruntimeconfig.cache
+/home/dev/mnt/szofi/gyakorlas/delegate/delegate1/obj/Debug/net9.0/ref/delegate1.dll

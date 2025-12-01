@@ -1,0 +1,14 @@
+/home/dev/mnt/szofi/9.het/linq-to-xml/obj/Debug/net9.0/linq-to-xml.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/szofi/9.het/linq-to-xml/obj/Debug/net9.0/linq-to-xml.AssemblyInfoInputs.cache
+/home/dev/mnt/szofi/9.het/linq-to-xml/obj/Debug/net9.0/linq-to-xml.AssemblyInfo.cs
+/home/dev/mnt/szofi/9.het/linq-to-xml/obj/Debug/net9.0/linq-to-xml.csproj.CoreCompileInputs.cache
+/home/dev/mnt/szofi/9.het/linq-to-xml/bin/Debug/net9.0/linq-to-xml
+/home/dev/mnt/szofi/9.het/linq-to-xml/bin/Debug/net9.0/linq-to-xml.deps.json
+/home/dev/mnt/szofi/9.het/linq-to-xml/bin/Debug/net9.0/linq-to-xml.runtimeconfig.json
+/home/dev/mnt/szofi/9.het/linq-to-xml/bin/Debug/net9.0/linq-to-xml.dll
+/home/dev/mnt/szofi/9.het/linq-to-xml/bin/Debug/net9.0/linq-to-xml.pdb
+/home/dev/mnt/szofi/9.het/linq-to-xml/obj/Debug/net9.0/linq-to-xml.dll
+/home/dev/mnt/szofi/9.het/linq-to-xml/obj/Debug/net9.0/refint/linq-to-xml.dll
+/home/dev/mnt/szofi/9.het/linq-to-xml/obj/Debug/net9.0/linq-to-xml.pdb
+/home/dev/mnt/szofi/9.het/linq-to-xml/obj/Debug/net9.0/linq-to-xml.genruntimeconfig.cache
+/home/dev/mnt/szofi/9.het/linq-to-xml/obj/Debug/net9.0/ref/linq-to-xml.dll

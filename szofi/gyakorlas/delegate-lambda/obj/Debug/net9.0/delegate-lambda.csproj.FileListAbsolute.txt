@@ -1,0 +1,14 @@
+/home/dev/mnt/szofi/gyakorlas/delegate-lambda/bin/Debug/net9.0/delegate-lambda
+/home/dev/mnt/szofi/gyakorlas/delegate-lambda/bin/Debug/net9.0/delegate-lambda.deps.json
+/home/dev/mnt/szofi/gyakorlas/delegate-lambda/bin/Debug/net9.0/delegate-lambda.runtimeconfig.json
+/home/dev/mnt/szofi/gyakorlas/delegate-lambda/bin/Debug/net9.0/delegate-lambda.dll
+/home/dev/mnt/szofi/gyakorlas/delegate-lambda/bin/Debug/net9.0/delegate-lambda.pdb
+/home/dev/mnt/szofi/gyakorlas/delegate-lambda/obj/Debug/net9.0/delegate-lambda.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/szofi/gyakorlas/delegate-lambda/obj/Debug/net9.0/delegate-lambda.AssemblyInfoInputs.cache
+/home/dev/mnt/szofi/gyakorlas/delegate-lambda/obj/Debug/net9.0/delegate-lambda.AssemblyInfo.cs
+/home/dev/mnt/szofi/gyakorlas/delegate-lambda/obj/Debug/net9.0/delegate-lambda.csproj.CoreCompileInputs.cache
+/home/dev/mnt/szofi/gyakorlas/delegate-lambda/obj/Debug/net9.0/delegate-lambda.dll
+/home/dev/mnt/szofi/gyakorlas/delegate-lambda/obj/Debug/net9.0/refint/delegate-lambda.dll
+/home/dev/mnt/szofi/gyakorlas/delegate-lambda/obj/Debug/net9.0/delegate-lambda.pdb
+/home/dev/mnt/szofi/gyakorlas/delegate-lambda/obj/Debug/net9.0/delegate-lambda.genruntimeconfig.cache
+/home/dev/mnt/szofi/gyakorlas/delegate-lambda/obj/Debug/net9.0/ref/delegate-lambda.dll

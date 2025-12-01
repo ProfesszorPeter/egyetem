@@ -1,0 +1,14 @@
+/home/dev/mnt/szofi/8.het/linq2/obj/Debug/net9.0/linq2.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/szofi/8.het/linq2/obj/Debug/net9.0/linq2.AssemblyInfoInputs.cache
+/home/dev/mnt/szofi/8.het/linq2/obj/Debug/net9.0/linq2.AssemblyInfo.cs
+/home/dev/mnt/szofi/8.het/linq2/obj/Debug/net9.0/linq2.csproj.CoreCompileInputs.cache
+/home/dev/mnt/szofi/8.het/linq2/bin/Debug/net9.0/linq2
+/home/dev/mnt/szofi/8.het/linq2/bin/Debug/net9.0/linq2.deps.json
+/home/dev/mnt/szofi/8.het/linq2/bin/Debug/net9.0/linq2.runtimeconfig.json
+/home/dev/mnt/szofi/8.het/linq2/bin/Debug/net9.0/linq2.dll
+/home/dev/mnt/szofi/8.het/linq2/bin/Debug/net9.0/linq2.pdb
+/home/dev/mnt/szofi/8.het/linq2/obj/Debug/net9.0/linq2.dll
+/home/dev/mnt/szofi/8.het/linq2/obj/Debug/net9.0/refint/linq2.dll
+/home/dev/mnt/szofi/8.het/linq2/obj/Debug/net9.0/linq2.pdb
+/home/dev/mnt/szofi/8.het/linq2/obj/Debug/net9.0/linq2.genruntimeconfig.cache
+/home/dev/mnt/szofi/8.het/linq2/obj/Debug/net9.0/ref/linq2.dll

@@ -1,0 +1,14 @@
+/home/dev/mnt/szofi/1.het/hazi1/bin/Debug/net9.0/hazi1
+/home/dev/mnt/szofi/1.het/hazi1/bin/Debug/net9.0/hazi1.deps.json
+/home/dev/mnt/szofi/1.het/hazi1/bin/Debug/net9.0/hazi1.runtimeconfig.json
+/home/dev/mnt/szofi/1.het/hazi1/bin/Debug/net9.0/hazi1.dll
+/home/dev/mnt/szofi/1.het/hazi1/bin/Debug/net9.0/hazi1.pdb
+/home/dev/mnt/szofi/1.het/hazi1/obj/Debug/net9.0/hazi1.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/szofi/1.het/hazi1/obj/Debug/net9.0/hazi1.AssemblyInfoInputs.cache
+/home/dev/mnt/szofi/1.het/hazi1/obj/Debug/net9.0/hazi1.AssemblyInfo.cs
+/home/dev/mnt/szofi/1.het/hazi1/obj/Debug/net9.0/hazi1.csproj.CoreCompileInputs.cache
+/home/dev/mnt/szofi/1.het/hazi1/obj/Debug/net9.0/hazi1.dll
+/home/dev/mnt/szofi/1.het/hazi1/obj/Debug/net9.0/refint/hazi1.dll
+/home/dev/mnt/szofi/1.het/hazi1/obj/Debug/net9.0/hazi1.pdb
+/home/dev/mnt/szofi/1.het/hazi1/obj/Debug/net9.0/hazi1.genruntimeconfig.cache
+/home/dev/mnt/szofi/1.het/hazi1/obj/Debug/net9.0/ref/hazi1.dll
