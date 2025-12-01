@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dev/mnt/szofi/3.gyak/lambda/lambda.csproj": {}
+    "/home/dev/mnt/szofi/9.het/linq-to-xml/linq-to-xml.csproj": {}
   },
   "projects": {
-    "/home/dev/mnt/szofi/3.gyak/lambda/lambda.csproj": {
+    "/home/dev/mnt/szofi/9.het/linq-to-xml/linq-to-xml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dev/mnt/szofi/3.gyak/lambda/lambda.csproj",
-        "projectName": "lambda",
-        "projectPath": "/home/dev/mnt/szofi/3.gyak/lambda/lambda.csproj",
+        "projectUniqueName": "/home/dev/mnt/szofi/9.het/linq-to-xml/linq-to-xml.csproj",
+        "projectName": "linq-to-xml",
+        "projectPath": "/home/dev/mnt/szofi/9.het/linq-to-xml/linq-to-xml.csproj",
         "packagesPath": "/home/dev/.nuget/packages/",
-        "outputPath": "/home/dev/mnt/szofi/3.gyak/lambda/obj/",
+        "outputPath": "/home/dev/mnt/szofi/9.het/linq-to-xml/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dev/.nuget/NuGet/NuGet.Config"

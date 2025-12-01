@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dev/mnt/szofi/3.gyak/lambda/lambda.csproj": {}
+    "/home/dev/mnt/szofi/10.het/linq-to-json/linq-to-json.csproj": {}
   },
   "projects": {
-    "/home/dev/mnt/szofi/3.gyak/lambda/lambda.csproj": {
+    "/home/dev/mnt/szofi/10.het/linq-to-json/linq-to-json.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dev/mnt/szofi/3.gyak/lambda/lambda.csproj",
-        "projectName": "lambda",
-        "projectPath": "/home/dev/mnt/szofi/3.gyak/lambda/lambda.csproj",
+        "projectUniqueName": "/home/dev/mnt/szofi/10.het/linq-to-json/linq-to-json.csproj",
+        "projectName": "linq-to-json",
+        "projectPath": "/home/dev/mnt/szofi/10.het/linq-to-json/linq-to-json.csproj",
         "packagesPath": "/home/dev/.nuget/packages/",
-        "outputPath": "/home/dev/mnt/szofi/3.gyak/lambda/obj/",
+        "outputPath": "/home/dev/mnt/szofi/10.het/linq-to-json/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dev/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
