@@ -1,0 +1,17 @@
+/home/dev/mnt/szofi/beadando/szamla/bin/Debug/net9.0/szamla
+/home/dev/mnt/szofi/beadando/szamla/bin/Debug/net9.0/szamla.deps.json
+/home/dev/mnt/szofi/beadando/szamla/bin/Debug/net9.0/szamla.runtimeconfig.json
+/home/dev/mnt/szofi/beadando/szamla/bin/Debug/net9.0/szamla.dll
+/home/dev/mnt/szofi/beadando/szamla/bin/Debug/net9.0/szamla.pdb
+/home/dev/mnt/szofi/beadando/szamla/obj/Debug/net9.0/szamla.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/szofi/beadando/szamla/obj/Debug/net9.0/szamla.AssemblyInfoInputs.cache
+/home/dev/mnt/szofi/beadando/szamla/obj/Debug/net9.0/szamla.AssemblyInfo.cs
+/home/dev/mnt/szofi/beadando/szamla/obj/Debug/net9.0/szamla.csproj.CoreCompileInputs.cache
+/home/dev/mnt/szofi/beadando/szamla/obj/Debug/net9.0/szamla.dll
+/home/dev/mnt/szofi/beadando/szamla/obj/Debug/net9.0/refint/szamla.dll
+/home/dev/mnt/szofi/beadando/szamla/obj/Debug/net9.0/szamla.pdb
+/home/dev/mnt/szofi/beadando/szamla/obj/Debug/net9.0/szamla.genruntimeconfig.cache
+/home/dev/mnt/szofi/beadando/szamla/obj/Debug/net9.0/ref/szamla.dll
+/home/dev/mnt/szofi/beadando/szamla/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/dev/mnt/szofi/beadando/szamla/obj/Debug/net9.0/szamla.csproj.AssemblyReference.cache
+/home/dev/mnt/szofi/beadando/szamla/obj/Debug/net9.0/szamla.csproj.Up2Date

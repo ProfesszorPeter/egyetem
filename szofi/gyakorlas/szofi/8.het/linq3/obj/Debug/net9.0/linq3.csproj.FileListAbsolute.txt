@@ -1,0 +1,14 @@
+/home/dev/mnt/szofi/8.het/linq3/bin/Debug/net9.0/linq3
+/home/dev/mnt/szofi/8.het/linq3/bin/Debug/net9.0/linq3.deps.json
+/home/dev/mnt/szofi/8.het/linq3/bin/Debug/net9.0/linq3.runtimeconfig.json
+/home/dev/mnt/szofi/8.het/linq3/bin/Debug/net9.0/linq3.dll
+/home/dev/mnt/szofi/8.het/linq3/bin/Debug/net9.0/linq3.pdb
+/home/dev/mnt/szofi/8.het/linq3/obj/Debug/net9.0/linq3.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/mnt/szofi/8.het/linq3/obj/Debug/net9.0/linq3.AssemblyInfoInputs.cache
+/home/dev/mnt/szofi/8.het/linq3/obj/Debug/net9.0/linq3.AssemblyInfo.cs
+/home/dev/mnt/szofi/8.het/linq3/obj/Debug/net9.0/linq3.csproj.CoreCompileInputs.cache
+/home/dev/mnt/szofi/8.het/linq3/obj/Debug/net9.0/linq3.dll
+/home/dev/mnt/szofi/8.het/linq3/obj/Debug/net9.0/refint/linq3.dll
+/home/dev/mnt/szofi/8.het/linq3/obj/Debug/net9.0/linq3.pdb
+/home/dev/mnt/szofi/8.het/linq3/obj/Debug/net9.0/linq3.genruntimeconfig.cache
+/home/dev/mnt/szofi/8.het/linq3/obj/Debug/net9.0/ref/linq3.dll
