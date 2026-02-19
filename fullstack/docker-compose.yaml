@@ -1,0 +1,7 @@
+services:
+  borilap:
+    image: fullstack_nginx:1.0
+    ports:
+      - 8080:8080
+    volumes:
+        - /home/peter/egyetem/fullstack/:/usr/share/nginx/html
