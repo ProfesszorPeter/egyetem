@@ -1,9 +1,7 @@
 services:
   fullstack:
     image: fullstack_nginx:1.0
-    build:
-        ./Dockerfile
     ports:
       - 8080:8080
     volumes:
-        - /home/peter/egyetem/fullstack/1.het/1.2/:/usr/share/nginx/html
+        - /home/peter/egyetem/fullstack/2.het/2.1/:/usr/share/nginx/html

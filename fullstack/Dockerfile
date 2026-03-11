@@ -1,4 +1,4 @@
 FROM nginx:alpine
 
-COPY . /usr/share/nginx/html
+COPY ./2.het/2.1/ /usr/share/nginx/html
 
