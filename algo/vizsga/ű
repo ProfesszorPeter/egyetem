@@ -24,7 +24,7 @@ class LinkedList():
 
         print()
 
-    def insertAtBeggining(self,data):
+    def insertAtBeggining(self, data):
         new_Node = Node(data)
         new_Node.next = self.head
         self.head = new_Node
@@ -32,16 +32,12 @@ class LinkedList():
             self.tail = self.head
         self.counter +=1
 
-
-    def removeFromBeggining(self):
+    def removeFromBeggining(self,data):
         if self.head == None:
             self.error = True
+
         else:
             self.head = self.head.next
-            self.counter -=1
-            if self.counter == 0:
-                self.tail = self.head
-        self.error = False
 
 
 
@@ -52,8 +48,7 @@ lista.insertAtBeggining("alma")
 lista.insertAtBeggining("foo")
 lista.insertAtBeggining(4)
 lista.printList()
-lista.removeFromBeggining()
-lista.printList()
+
 
 
 
