@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title></title>
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <div id="tablahelye">
+            <script>
+                const table=document.createElement("table");
+                const hely=document.getElementById("tablahelye");
+                tabla.id="szorzotabla";
+                tabla.align="center";
+                for(let i = 1;i<10;i++)
+                {
+                    const sor = document.createElement("tr");
+                    for(let j = 1;j<10;j++)
+                    {
+                        const cella = document.createElement("td");
+                        cella.textcontent=i*j;
+                        if (i != 1 && j != 1)
+                            cella.title=`${i}*{j}`;
+                        sor.appendChild(cella);
+                    }
+                    tabla.appendChild(sor);
+                }
+                hely.appendChild(tabla);
+            </script>
+            
+        </div>
+    
+    </body>
+</html>
+

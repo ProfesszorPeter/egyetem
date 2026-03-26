@@ -1,0 +1,34 @@
+#szorzotabla
+    {
+	  border           : solid  1px  green  ;
+	  box-shadow       : 4px 4px 4px #6A6   ;
+	  border-radius    : 8px                ;
+	  background-color : rgb(90, 90, 90)               ;
+    }
+
+	/*a tábla minden cellájára vonatkozó formázás*/
+#szorzotabla tr td
+    {
+	  width            : 24px    ;
+	  text-align       : center  ;
+	  padding-right    : 4px     ;
+	  line-height      : 20px    ;
+	  font-family      : Arial   ;
+	  font-size        : 12px    ;
+	  border-radius    : 8px     ;
+	  background-color : rgb(235, 200, 115)    ;
+    }
+
+	/*a tábla minden 2. sorára (azok celláira), illetve minden sor minden 2. cellájára vonatkozó formázások */
+#szorzotabla  tr:nth-child(2n) td,#szorzotabla tr td:nth-child(2n)
+    {
+	  background-color : rgb(240, 240, 20)    ;
+    }
+
+	/*a tábla első sorára (annak celláira), illetve minden sor első cellájára vonatkozó formázások  */
+   #szorzotabla tr:first-child() td,#szorzotabla tr td:first-child()
+    {
+	  background-color : rgb(240, 250, 155)    ;
+	  font-weight      : bold    ;
+    }
+
