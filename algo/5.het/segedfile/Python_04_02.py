@@ -23,3 +23,4 @@ ermek = [1000, 500, 200, 100, 50, 20, 10, 5, 2, 1]
 osszeg = 2797
 megoldas = erme_moho(ermek, osszeg)
 print("A választott érmék értéke és darabszáma: ", megoldas)
+
