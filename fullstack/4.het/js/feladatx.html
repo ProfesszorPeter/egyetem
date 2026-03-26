@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title></title>
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <h2>Dátum és pontos idő</h2>
+        <p id="demo"></p>
+        <button type="button" onclick="megjelenitDatum()">Dátum ls idő</button>
+        <script>
+            function megjelenitDatum()
+            {
+                const d = new Date();
+                document.getElementById("demo").innerHTML=d.getFullYear()+".";
+            }
+            
+        </script>
+    
+    </body>
+</html>
+
